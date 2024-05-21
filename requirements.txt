@@ -15,3 +15,10 @@ tqdm
 typing
 typing-extensions
 git+https://github.com/resemble-ai/monotonic_align.git
+scipy
+phonemizer
+cached-path
+gradio
+gruut
+#tortoise-tts
+txtsplit
